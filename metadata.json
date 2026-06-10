@@ -1,0 +1,6 @@
+{
+  "name": "Peso Wallet",
+  "description": "Production-grade bilingual stablecoin wallet for Argentina supporting scanning QRs, sending/receiving transactions, managing portfolios, and saving in digital dollars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
